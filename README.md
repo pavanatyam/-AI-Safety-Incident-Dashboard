@@ -10,20 +10,14 @@ Make sure you have Node.js and TypeScript installed.
 To install TypeScript globally (if not already installed):
 
 bash
-Copy
-Edit
 npm install -g typescript
 Navigate to the project folder:
 
 bash
-Copy
-Edit
 cd your-project-folder-name
 Compile the TypeScript file (app.ts) to JavaScript:
 
 bash
-Copy
-Edit
 tsc app.ts
 This will generate an app.js file.
 
@@ -50,9 +44,6 @@ Expandable Descriptions: Each incident's description is hidden by default and ca
 Scalability Consideration: Although basic now, the code structure allows easy extension (e.g., connecting to a real backend later).
 
 📂 Project Structure
-pgsql
-Copy
-Edit
 /your-project-folder
   ├── index.html
   ├── app.ts
