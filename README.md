@@ -43,13 +43,13 @@ Expandable Descriptions: Each incident's description is hidden by default and ca
 
 Scalability Consideration: Although basic now, the code structure allows easy extension (e.g., connecting to a real backend later).
 
-📂 Project Structure
-/your-project-folder
-  ├── index.html
-  ├── app.ts
-  ├── app.js (auto-generated after compiling app.ts)
-  ├── styles.css
-  └── README.md
+  📂 Project Structure
+  /your-project-folder
+    ├── index.html
+    ├── app.ts
+    ├── app.js (auto-generated after compiling app.ts)
+    ├── styles.css
+    └── README.md 
 🎯 Final Note
 This project is meant to demonstrate clean front-end component building
 with basic TypeScript usage, responsive design, and interactive UI behavior without external libraries.
